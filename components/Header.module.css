@@ -1,0 +1,14 @@
+.nav {
+    background-color: hsla(59, 100%, 50%, 0.849);
+}
+.nav ul {
+    margin: 0;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: x-large;
+    padding: 15px;
+  }
+  .nav :link{
+    color: #ff3c00;
+  } 
